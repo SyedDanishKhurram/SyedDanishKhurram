@@ -36,3 +36,5 @@ Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/syed-dan
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedDanishKhurram&layout=compact&theme=radical)
 ![Syed Danish Khurram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedDanishKhurram&show_icons=true&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SyedDanishKhurram&theme=merko&hide_border=false)
+
