@@ -27,6 +27,12 @@ I'm currently diving deeper into:
 ## 💬 Let's Connect
 
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/syed-danish-khurram-73a70a293/) for any collaboration or discussion.
+### GitHub Profile Summary Cards
+
+![Profile Details](https://github.com/SyedDanishKhurram/SyedDanishKhurram/blob/main/profile-summary-card-output/default/1-profile-details.svg)
+![Top Languages by Repo](https://github.com/SyedDanishKhurram/SyedDanishKhurram/blob/main/profile-summary-card-output/default/2-most-commit-language.svg)
+![Top Languages by Commit](https://github.com/SyedDanishKhurram/SyedDanishKhurram/blob/main/profile-summary-card-output/default/3-repos-per-language.svg)
+![Productive Time](https://github.com/SyedDanishKhurram/SyedDanishKhurram/blob/main/profile-summary-card-output/default/4-productive-time.svg)
 
 ---
 
