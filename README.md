@@ -1,6 +1,4 @@
-## Hi there 👋 , Iam Syed Danish Khurram 
-    
-# Hi there, I'm Syed Danish Khurram! 👋
+  ## Hi there, I'm Syed Danish Khurram! 👋
 
 **`Software Engineer | Data Scientist | AI Enthusiast`**
 
