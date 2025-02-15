@@ -6,6 +6,7 @@ I'm an undergraduate student at **Iqra University (IU)**, specializing in Artifi
 
 - 🌍 **Location:** Karachi, Sindh, Pakistan
 - 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/syed-danish-khurram-73a70a293/)
+- 📧 **Email:** khurramsyeddanish@gmail.com
 
 ## 🔧 Technologies & Tools
 
