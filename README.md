@@ -9,7 +9,7 @@ I'm an undergraduate student at **Iqra University (IU)**, specializing in Artifi
 - 📧 **Email:** khurramsyeddanish@gmail.com
 - 🔗 Website: [Portfolio](http://syeddanishkhurram.infy.uk/?i=1#projects)
 - 📊 DataCamp: [Profile](https://www.datacamp.com/portfolio/khurramsyeddanish)
-- 
+  
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python, 
@@ -49,10 +49,6 @@ I'm currently diving deeper into:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![DataCamp](https://img.shields.io/badge/DataCamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=ml&logoColor=white)
-
-##🚀Achivement & Badges 
-![Achievements](https://github-profile-trophy.vercel.app/?username=SyedDanishKhurram&theme=darkhub&margin-w=15)  
-
 
 ## 💬 Let's Connect
 
