@@ -51,8 +51,7 @@ I'm currently diving deeper into:
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=ml&logoColor=white)
 
 ##🚀Achivement & Badges 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
-![GitHub stars](https://img.shields.io/github/stars/yourusername?style=social)
+![Achievements](https://github-profile-trophy.vercel.app/?username=SyedDanishKhurram&theme=darkhub&margin-w=15)  
 
 
 ## 💬 Let's Connect
